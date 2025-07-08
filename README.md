@@ -2,19 +2,19 @@
 
 Run Instructions (VS Code + Git Bash)
 
-Clone & open
-git clone url
-cd dir
+Clone & open: 
+git clone url,
+cd dir.
 
 
-Virtual env
-python -m venv venv
-source venv/Scripts/activate  # Git Bash on Windows
+Virtual env: 
+python -m venv venv,
+source venv/Scripts/activate.
 
 
-Install
-pip install -r requirements.txt
+Install:
+pip install -r requirements.txt.
 
 
-Run
-python src/main.py
+Run:
+python src/main.py.
